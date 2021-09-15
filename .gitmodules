@@ -12,3 +12,8 @@
 	path = xmarts/l10n-einvoice-mx-transfer-invoice
 	url = git@github.com:xmarts/l10n-einvoice-mx-transfer-invoice.git
 	branch = 14.0-victoralonsoxmarts
+
+[submodule "xmarts/odoo-account-budget-alert-enterprise"]
+	path = xmarts/odoo-account-budget-alert-enterprise
+	url = git@github.com:xmarts/odoo-account-budget-alert-enterprise.git
+	branch = 14.0
